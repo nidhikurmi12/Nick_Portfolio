@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { FiExternalLink, FiGithub, FiStar } from "react-icons/fi";
 
@@ -10,7 +10,7 @@ import realtrust from "../assets/realtrust.png";
 import doctor from "../assets/doctor.jpeg";
 import grocito from "../assets/grocito.png";
 import beauty from "../assets/beauty.png";
-import Random from "../assets/random.png";
+import Random from "../assets/Random.png";
 import Vuejs from "../assets/vuejs.png";
 import taskSetu from "../assets/tasksetu.png";
 import mixoAds from "../assets/mixoads.png";
