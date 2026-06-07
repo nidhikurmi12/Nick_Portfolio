@@ -11,9 +11,9 @@ import doctor from "../assets/doctor.jpeg";
 import grocito from "../assets/grocito.png";
 import beauty from "../assets/beauty.png";
 import Random from "../assets/Random.png";
-import Vuejs from "../assets/vuejs.png";
-import taskSetu from "../assets/tasksetu.png";
-import mixoAds from "../assets/mixoads.png";
+import Vuejs from "../assets/Vuejs.png";
+import taskSetu from "../assets/taskSetu.png";
+import mixoAds from "../assets/MixoAds.png";
 const projects = [
   {
     title: "BioBridge — Project Management",
